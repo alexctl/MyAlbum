@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Album</string>
+    <string name="splash_alertDialog_Button_Valide">OK</string>
+    <string name="splash_alertDialog_Titre">Connexion Internet</string>
+    <string name="splash_alertDialog_Message">L\'application à besoin d\'un connexion internet au premier lancement pour récuperer les données</string>
+    <string name="album_titre">titre de l\'ablbum</string>
+</resources>
